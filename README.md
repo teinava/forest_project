@@ -1,3 +1,4 @@
+A 2D game based on C++, OpenGL, and stb_image.
 ## Controls
 
 - W - move forward
