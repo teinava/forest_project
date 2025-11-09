@@ -11,6 +11,3 @@
 - P - attack
 
 - ECS - close window
-## Requires
-* OpenGL
-* stb_image
