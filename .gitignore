@@ -1,0 +1,9 @@
+.vs/
+MyProject/
+OpenGL/
+x64/
+MyProject.vcxproj
+MyProject.vcxproj.filters
+MyProject.vcxproj.user
+MyProject.sln
+stb_image.h
