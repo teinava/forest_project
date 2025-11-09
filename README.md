@@ -1,4 +1,4 @@
-# Controls
+## Controls
 
 - W - move forward
 - A - move left
@@ -11,3 +11,6 @@
 - P - attack
 
 - ECS - close window
+## Requires
+* OpenGL
+* stb_image
